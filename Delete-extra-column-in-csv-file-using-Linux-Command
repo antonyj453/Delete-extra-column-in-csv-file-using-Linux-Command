@@ -1,0 +1,1 @@
+ cut -d, -f18 --complement /home/uvionics/Downloads/check/out.csv  > /home/uvionics/Downloads/check/input1.csv
